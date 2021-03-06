@@ -97,7 +97,7 @@ From Command Line:
 To manually test the ATM Controller functionality:
 From the command line:
 1. Go to `ATMController/Debug` folder
-2. Execute Command: `./atm_controller` and test 
+2. Execute Command: `./atm_controller` and test (default atm pin: 1234)
 
 
 ## Dependencies
